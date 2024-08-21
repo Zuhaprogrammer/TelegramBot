@@ -1,5 +1,8 @@
 package com.zuhriddin.service;
 
+import com.zuhriddin.model.Product;
+import com.zuhriddin.model.User;
+
 import java.util.*;
 
 public interface BaseService<T, R> {
